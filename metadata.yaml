@@ -1,0 +1,33 @@
+_repo: Our-Western-Hills-How-to-reach-them-And-the-Views-from-their-Summits-By-a-Glasgow-Pedestrian_62811
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Hiking -- Scotland'
+- !lcsh 'Scotland -- Description and travel'
+- !lcc 'DA'
+- GITenberg
+tableOfContents: Loudon Hill -- Tinto -- Cairntable -- Ballagioch -- Kaim Hill --
+  Goatfell -- The Earl's Seat -- Dunmyat -- Ben Donich -- Ben Venue -- The Cobbler
+  -- Ben Lomond -- Mount Misery -- Ben Ledi -- The Meikle Ben.
+title: 'Our Western Hills: How to reach them; And the Views from their Summits
+
+  By a Glasgow Pedestrian'
+url: http://www.gutenberg.org/ebooks/62811
